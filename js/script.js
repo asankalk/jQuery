@@ -1,11 +1,9 @@
 $(function() {
-  // jQuery goes here...
-
-  // Uncomment this line to fade out the red box on page load
-  $(".red-box").fadeTo(3000,0.2);
-  $(".green-box").fadeTo(4000,0.5);
-  $(".blue-box").fadeTo(5000,0.2);
-
-  $(".blue-box").fadeToggle();
-  $(".blue-box").fadeToggle();
+    //$("p").css("background-color", "rgba(180,180,30, 0.8");
+    //$(".red-box").css("background-color", "rgba(180,180,30, 0.8");
+    // $("#list").css("background-color", "rgba(180,180,30, 0.8");
+    // $("input[type='email']").css("background-color", "rgba(180,180,30, 0.8");
+    // $("h2, p, input").css("background-color", "rgba(180,180,30, 0.8");
+    // $("p:first").css("background-color", "rgba(180,180,30, 0.8");
+    $("li:even").css("background-color", "rgba(180,180,30, 0.8");
 });
