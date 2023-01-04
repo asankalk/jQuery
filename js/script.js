@@ -17,5 +17,5 @@ $(function() {
 // DOM
 
 $(function(){
-
+// Testing DOM
 });
